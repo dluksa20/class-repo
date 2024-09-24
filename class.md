@@ -1,4 +1,3 @@
-Kristian	
-Germany	
-Meta Front-End course
-
+Dovydas
+London
+Meta-Front-End-Developer
